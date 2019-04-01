@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+config/config.js
+config/dev.env.js
+selenium-debug.log
+/config/config.js
+/config/dev.env.js
+/config/test.env.js
+/config/prod.env.js
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
